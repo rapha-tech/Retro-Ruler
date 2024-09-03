@@ -1,5 +1,5 @@
 # retro-ruler
-## PCB ruler featuring an ESP-32 wrover module, 1.69inch st7789 screen running retro-go
+## PCB ruler featuring an ESP-32 wrover module, 1.69inch ST7789 screen running retro-go
 
 ## <https://github.com/ducalex/retro-go>
 
