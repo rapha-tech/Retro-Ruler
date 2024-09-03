@@ -5,7 +5,7 @@ github.com/ducalex/retro-go
 <img src="retro-règle.jpg"/>
 
 <pre>
-# Specs :
+Specs :
 battery : 230 mAh -> 2h battery life
 MCU : ESP32 wrover 8MB ram 8MB flash
 USB-C : charge (TP4057) and program (CH340C)
