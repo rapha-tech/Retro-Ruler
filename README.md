@@ -3,10 +3,21 @@
 
 ## <https://github.com/ducalex/retro-go>
 
-<img src="retro-règle.jpg"/>
+I'm currently working on a new version with the new ESP32-S3, here is a picture of my current prototype (shell and buttons are resin printed for now).
 
+<img src="retro-ruler-V2.jpg"/>
+
+PCBway sent me free PCBs for prototyping thanks to them!
+Check out their website if you need cheap (and quality) PCB prototyping.
+https://www.pcbway.com
+
+<img src="retro-ruler-V2-PCB.jpg"/>
+
+The quality of the silkscreen is incredible (in my opinion way better than the matte finish from JLCPCB).
+
+
+## Specs of the first "kickstarter version" :
 <pre>
-Specs :
 - battery : 230 mAh -> 2h battery life
 - MCU : ESP32 wrover 8MB ram 8MB flash
 - USB-C : charge (TP4057) and program (CH340C)
@@ -14,3 +25,11 @@ Specs :
 - 10 buttons for input
 - 1.69 inch IPS screen with round corners
 </pre>
+
+## Photos of the first "kickstarter version":
+
+<img src="retro-ruler-V1.jpg"/>
+
+## First prototype:
+
+<img src="retro-ruler-V0.jpg"/>
