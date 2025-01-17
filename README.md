@@ -7,7 +7,7 @@ I'm currently working on a new version with the new ESP32-S3, here is a picture 
 
 <img src="retro-ruler-V2.jpg"/>
 
-PCBway sent me free PCBs for prototyping thanks to them!
+PCBway sent me free PCBs for prototyping a huge thanks to them!
 Check out their website if you need cheap (and quality) PCB prototyping.
 https://www.pcbway.com
 
@@ -27,6 +27,7 @@ The quality of the silkscreen is incredible (in my opinion way better than the m
 </pre>
 
 ## Photos of the first "kickstarter version":
+(regular FDM 3D printed shell)
 
 <img src="retro-ruler-V1.jpg"/>
 
