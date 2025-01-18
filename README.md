@@ -1,5 +1,5 @@
-# retro-ruler
-## PCB ruler featuring an ESP-32 wrover module, 1.69inch ST7789 screen running retro-go
+# Retro-Ruler
+## PCB ruler featuring an ESP-32 module, 1.69" IPS screen running retro-go
 
 ## <https://github.com/ducalex/retro-go>
 
@@ -7,10 +7,10 @@ I'm currently working on a new version with the new ESP32-S3, here is a picture 
 
 <img src="retro-ruler-V2.jpg"/>
 
-PCBway sent me free PCBs for prototyping a huge thanks to them!
+PCBway sent me free PCBs for prototyping, a huge thanks to them!
 Check out their website if you need cheap (and high quality) PCB prototyping.
 https://www.pcbway.com
-They spend more time checking your design files to find errors compared to JLCPCB!
+They spend more time checking your design files to avoid errors compared to JLCPCB!
 
 <img src="retro-ruler-V2-PCB.jpg"/>
 
