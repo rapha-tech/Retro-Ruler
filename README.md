@@ -14,7 +14,7 @@ They spend more time checking your design files to find errors compared to JLCPC
 
 <img src="retro-ruler-V2-PCB.jpg"/>
 
-The quality of the silkscreen is incredible (in my opinion way better than the matte finish from JLCPCB).
+The quality of the soldermask is incredible (in my opinion way better than the matte finish from JLCPCB).
 PCBway also does multicolor silkscreen wich I haven't tried personally...for now!
 
 
