@@ -5,7 +5,7 @@
 
 I'm currently working on a new version with the new ESP32-S3, here is a picture of my current prototype (shell and buttons are resin printed for now).
 
-YouTube video :
+## YouTube video :
 ## <https://youtu.be/6_hphZ4BOfc?si=MwG2R92cDhgLuc7c>
 
 <img src="retro-ruler-V2.jpg"/>
