@@ -3,19 +3,22 @@
 
 ## <https://github.com/ducalex/retro-go>
 
-I'm currently working on a new version with the new ESP32-S3, here is a picture of my current prototype (shell and buttons are resin printed for now).
+I'm currently working on a new version with the new ESP32-S3, here is a picture of my current prototype.
+<img src="retro-ruler-V2.1-PCB.jpg"/>
+
 ## Specs:
 <pre>
 - battery : 210 mAh -> 2h battery life
 - MCU : ESP32-S3 8MB ram 16MB flash
-- USB-C : charge (TP4057) and program
+- USB-C : charge (TP4054) and program
 - Micro SD : store games
-- 12 buttons for input + (2 shoulders -> work in progress)
+- 12 buttons for input (1 for ON/OFF) + 2 shoulders
 - 1.69 inch IPS screen with round corners
 - 0.7W speaker
 - NS4168 I²S DAC + Amplifier
 </pre>
 
+Older prototype (fully assembled) shell and buttons were resin printed.
 <img src="retro-ruler-V2.jpg"/>
 
 PCBway sent me free PCBs for prototyping, a huge thanks to them!
