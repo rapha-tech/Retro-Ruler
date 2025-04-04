@@ -1,10 +1,10 @@
 # Retro-Ruler
 ## PCB ruler featuring an ESP-32 module, 1.69" IPS screen running retro-go
-
 ## <https://github.com/ducalex/retro-go>
 
 I'm currently working on a new version with the new ESP32-S3, here is a picture of my current prototype.
-<img src="retro-ruler-V2.1-PCB.jpg"/>
+
+<img src="images/retro-ruler-V2.1-PCB.jpg"/>
 
 ## Specs:
 <pre>
@@ -19,14 +19,15 @@ I'm currently working on a new version with the new ESP32-S3, here is a picture 
 </pre>
 
 Older prototype (fully assembled) shell and buttons were resin printed.
-<img src="retro-ruler-V2.jpg"/>
+
+<img src="images/retro-ruler-V2.jpg"/>
 
 PCBway sent me free PCBs for prototyping, a huge thanks to them!
 Check out their website if you need cheap (and high quality) PCB prototyping.
 https://www.pcbway.com
 They spend more time checking your design files to avoid errors compared to JLCPCB!
 
-<img src="retro-ruler-V2-PCB.jpg"/>
+<img src="images/retro-ruler-V2-PCB.jpg"/>
 
 The quality of the soldermask is incredible (in my opinion way better than the matte finish from JLCPCB).
 PCBway also does multicolor silkscreen wich I haven't tried personally...for now!
@@ -45,8 +46,8 @@ PCBway also does multicolor silkscreen wich I haven't tried personally...for now
 ## Photos of the first "kickstarter version":
 (regular FDM 3D printed shell)
 
-<img src="retro-ruler-V1.jpg"/>
+<img src="images/retro-ruler-V1.jpg"/>
 
 ## First prototype:
 
-<img src="retro-ruler-V0.jpg"/>
+<img src="images/retro-ruler-V0.jpg"/>
